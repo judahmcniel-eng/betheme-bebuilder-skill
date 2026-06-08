@@ -9,6 +9,15 @@ description: >-
 ## Overview
 This skill provides comprehensive instructions, code templates, and design hacks for building custom layout sections, styling components, and publishing pages via the WordPress REST API for BeTheme and its page builder, **BeBuilder**.
 
+### Agent Compatibility
+This skill is **agent-agnostic** and works seamlessly for any AI assistant capable of handling WordPress coding, layout building, or publishing tasks, including:
+- **Antigravity (Google DeepMind)**
+- **Manus**
+- **Claude (Anthropic)**
+- **GPT-based developer agents**
+
+The constraints detailed here (such as WordPress content sanitization, BeTheme stylesheet overrides, and REST API/MCP publishing lifecycles) are properties of the host systems (WordPress and BeTheme), making these guidelines universally applicable to any agent.
+
 ---
 
 ## 1. BeBuilder Container Hierarchy & Targeting
