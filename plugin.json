@@ -1,0 +1,10 @@
+{
+  "name": "betheme-bebuilder-skill",
+  "version": "1.0.0",
+  "description": "WordPress BeTheme BeBuilder helper skill plugin for LLM agents.",
+  "author": {
+    "name": "judahmcniel-eng"
+  },
+  "repository": "https://github.com/judahmcniel-eng/betheme-bebuilder-skill",
+  "license": "MIT"
+}
