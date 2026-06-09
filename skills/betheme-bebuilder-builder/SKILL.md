@@ -1,7 +1,7 @@
 ---
 name: betheme-bebuilder-builder
 description: >-
-  Provides guidelines, code patterns, and structural hacks for building robust layouts, HTML sections, tables, and scripts in WordPress using BeTheme's BeBuilder, avoiding sanitization issues and styling overrides.
+  Guidelines, code patterns, and structural hacks for building robust layouts, HTML sections, tables, and scripts in WordPress sites running BeTheme and its BeBuilder page builder. Use this skill whenever building, editing, styling, or publishing content on a BeTheme/BeBuilder WordPress site — including custom HTML sections, tables, timelines, CSS or JavaScript additions, and page/post publishing via the WordPress REST API or MCP connectors. Also use when troubleshooting stripped style/script/svg tags, broken table styling, or layout overrides on any BeTheme site, even if the user doesn't mention BeBuilder by name.
 ---
 
 # BeTheme BeBuilder Layout & Section Builder
